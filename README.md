@@ -1,4 +1,4 @@
-I setup the solution by reusing one of my old projects.  It's laid out using the Hexagonal Architecture pattern.  The project is a simple ASP.NET Core Web API that manages a list of books.  I chose this pattern because I wanted to simulate an actual system that I would build in a real-world scenario and the Hexagonal pattern provides is great for separating concerns.
+I setup the solution by reusing one of my old projects.  It's laid out using the Hexagonal Architecture pattern.  The project is a simple ASP.NET Core Web API that returns a list of assets on the as of date.  I chose this pattern because I wanted to simulate an actual system that I would build in a real-world scenario and the Hexagonal pattern provides is great for separating concerns.
 
 I decided to try my hand at graphql for the API layer.  I have never used it before and wanted to see how it works.  I found it to be a bit more complex than REST in setup and I was unable to get it to return back the desired output.  I will need to spend more time with it to fully understand it.
 
